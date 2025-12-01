@@ -92,7 +92,7 @@ Vemos que las pérdidas en el núcleo macizo **crecen** con el cuadrado de la fr
 
 > Enúcleo cúbico dividido en láminas verticales. Se indica el ancho total $a$, y el ancho de una lámina individual como $a/n$ (donde $n$ es la cantidad de láminas).
 
-<img src="img/nucleo_laminas.png" alt="Núcleo cúbico dividido en láminas verticales" style="width: 50%; display: block; margin: auto;" />
+<img src="img/nucleo_laminas.png" alt="Núcleo cúbico dividido en láminas verticales" style="width: 40%; display: block; margin: auto;" />
 
 Se practica la **laminación** para que las líneas de Flujo magnético no encuentren interrupción a su continuidad, pero que en cambio interrumpan las líneas de Corriente que circulan por planos perpendiculares.
 
@@ -103,14 +103,14 @@ Para calcular las pérdidas en el núcleo laminado procederemos de la misma mane
 
 Al laminar el núcleo, las corrientes circulan por la espira de ancho $a/n$ como se muestra en la Figura.
 
-<img src="img/lamina_aislada.png" alt="Lámina aislada" style="width: 50%; display: block; margin: auto;" />
+<img src="img/lamina_aislada.png" alt="Lámina aislada" style="width: 35%; display: block; margin: auto;" />
 
 
  
 
 ### Cálculo en Núcleo Laminado
 
-<img src="img/lamina_aislada_total.png" alt="Lámina aislada" style="width: 50%; display: block; margin: auto;" />
+<img src="img/lamina_aislada_total.png" alt="Lámina aislada" style="width: 35%; display: block; margin: auto;" />
 
 Para calcular $R_n$ debemos calcular $l'_n$ y $S_n$.
 

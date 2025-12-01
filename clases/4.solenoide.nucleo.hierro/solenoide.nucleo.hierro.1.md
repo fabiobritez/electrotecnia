@@ -1,9 +1,10 @@
-### Solenoide con Núcleo de Hierro
+### Solenoide con núcleo de hierro
 
 Para investigar la influencia que tiene la presencia de un material ferromagnético en las proximidades de un circuito eléctrico, estudiaremos como caso particular la presencia del Hierro en las proximidades de una bobina, alterando el campo magnético que se establece en el medio que rodea al circuito, debido a que el material ferromagnético se caracteriza por tener una permeabilidad magnética muy alta y que no es constante:
 
 $$\mu = \frac{B}{H}$$
-
+ 
+<img src="img/bh.png" alt="Perfil de permeabilidad del hierro" style="width: 50%; display: block; margin: auto;" />
 
 > **Nota sobre el gráfico:** El gráfico pequeño a la izquierda muestra la permeabilidad ($\mu$) en el eje vertical frente a la intensidad del campo ($H$) en el eje horizontal. Muestra cómo $\mu$ sube y luego baja (fenómeno de saturación), confirmando que no es constante.
 
@@ -74,7 +75,9 @@ Otro fenómeno que se produce por la presencia de material ferromagnético es qu
 
 **En un material virgen:**
 Si se hace crecer el campo $H$ desde cero hasta un valor $H_{max}$, la inducción $B$ sigue la **curva de magnetización inicial** $OA$.
-![Curva de magnetización](img/curva_magnetizacion.png)
+<p align="center">
+  <img src="img/curva_magnetizacion.png" alt="Curva de magnetización" width="50%">
+</p>
 
 Si luego se disminuye el campo $H$ aplicado, el punto representativo del estado en que se encuentra el material no sigue la misma curva que la de crecimiento, sino que lo hace por un camino diferente (que depende del material).
 
@@ -101,7 +104,9 @@ Por lo tanto, toda la potencia instantánea que entrega la fuente $p(t) = e(t) \
 **b) Flujo confinado (Sin dispersión):**
 Como el material ferromagnético tiene alta permeabilidad, todo el flujo creado por el campo magnético se halla localizado únicamente en el material ferromagnético, es decir, **no hay flujo disperso**.
 
-![Flujo confinado](img/nucleo.jpg)
+<p align="center">
+  <img src="img/nucleo.jpg" alt="Flujo confinado" width="50%">
+</p>
  
 * $N =$ Número de espiras.
 * $l =$ Longitud del eje magnético (camino medio).

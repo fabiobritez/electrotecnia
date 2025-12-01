@@ -252,7 +252,8 @@ El reactor analizado es en realidad un complejo equipo constituido por parámetr
 * **$R_p$**: Representa las pérdidas por Histéresis y por corrientes parásitas que se producen en el núcleo.
 * **$L_m$**: La inductancia correspondiente al Flujo.
 
-*(Diagrama del Circuito: Fuente de tensión alterna conectada a una rama paralelo)*
+<img src="img/circuito.equivalente.png" alt="Circuito equivalente" style="width: 50%; display: block; margin: auto;" />
+
 * Rama Resistiva: Corriente $I_p$ (Pérdidas).
 * Rama Inductiva: Corriente $I_m$ (Magnetización).
 * Corriente Total: $I_{ex}$ (Excitación).
@@ -263,7 +264,7 @@ $$I_m = \frac{E}{j\omega L_m} \quad \text{y} \quad L_m = \frac{E}{\omega I_m}$$
 
 El valor de $E$ es conocido; y a $I_m$ lo podemos determinar en base a la **Curva de magnetización**.
 
-*(Gráfico: Curva de saturación B-H)*
+<img src="img/bh_magnetizacion.png" alt="Curva de saturación B-H" style="width: 50%; display: block; margin: auto;" />
 
 **Deducción de la Fuerza Electromotriz (FEM)**
 
@@ -322,7 +323,9 @@ Además debemos tener en cuenta las pérdidas que se producen en el **Cobre del 
 
 Por lo que el **Circuito Equivalente** para una bobina con núcleo de Hierro será:
 
-*(Diagrama del Circuito Equivalente Real)*
+<img src="img/circuito.equivalente.real.png" alt="Circuito equivalente real" style="width: 60%; display: block; margin: auto;" />
+
+
 * **Rama Serie:**
     * $R_c$: Resistencia óhmica del bobinado (Cobre).
     * $L_d$: Inductancia de dispersión (Flujo que no circula por el núcleo).

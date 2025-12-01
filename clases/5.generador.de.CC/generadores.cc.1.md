@@ -150,7 +150,7 @@ La forma en que extraemos esa electricidad determina si es AC o DC:
     * **Efecto:** Cada vez que la corriente interna de la bobina intenta invertir su polaridad, el conmutador invierte las conexiones hacia el exterior.
     * **Resultado:** Obtenemos una onda de **una sola polaridad** (pulsante), conocida como onda rectificada.
 
-#### 3. Mejora de la Señal: De Pulsante a Continua Constante
+####  Mejora de la Señal: De Pulsante a Continua Constante
 Una sola espira con conmutador produce una corriente continua "a saltos" (pulsante). Para solucionar esto y obtener una línea casi recta (señal constante), se añaden más elementos:
 
 * **Segunda Espira (a 90°):**
@@ -164,6 +164,8 @@ Una sola espira con conmutador produce una corriente continua "a saltos" (pulsan
 * **Múltiples Espiras (a 45° o menos):**
     * Si seguimos agregando espiras (ej. a 45° con 8 delgas), los "valles" entre los picos de tensión se llenan cada vez más.
     * **Conclusión:** Al aumentar el número de bobinas y delgas en el colector, la onda resultante se acerca cada vez más a una línea recta horizontal.
+
+    <img src="img/multiples-espiras.png" alt="Multiple espiras" style="width: 60%; display: block; margin: auto;" />
 
 ---
 ## Inconvenientes Constructivos

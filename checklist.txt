@@ -1,0 +1,19 @@
+Regla de la mano derecha. GENERADOR
+ Espira -> Corriente arriba, Campo B dedos.
+ Regla de Lorentz -> F = q.vxB -> Fuerza (Pensar en FBI)
+
+Regla de la mano izquierda.MOTOR.
+
+
+Campos magneticos rotantes.
+
+
+
+----
+
+
+----
+
+Generador CC 
+
+
